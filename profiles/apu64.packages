@@ -12,3 +12,4 @@ hdparm
 smartmontools
 dnsutils
 libpam-systemd
+glusterfs-server
